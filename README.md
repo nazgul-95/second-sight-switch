@@ -17,8 +17,6 @@
 
 </div>
 
-> **Artwork:** The project owner supplied the banner and confirmed it may be included in this repository.
-
 ---
 
 ## 📋 At a glance
