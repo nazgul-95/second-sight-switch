@@ -1,0 +1,34 @@
+[
+  {
+    "start": "0x002CE60D",
+    "end": "0x002CE83A",
+    "coalesce_starts": [
+      "0x002CE733",
+      "0x002CE75B",
+      "0x002CE7D0"
+    ]
+  },
+  {
+    "start": "0x002CFECA",
+    "end": "0x002D00A6",
+    "coalesce_starts": [
+      "0x002D008D"
+    ]
+  },
+  {
+    "start": "0x002F7248",
+    "end": "0x002F740D",
+    "coalesce_starts": [
+      "0x002F7374"
+    ]
+  },
+  {
+    "start": "0x002AE73F",
+    "end": "0x002AE7D3",
+    "coalesce_starts": [
+      "0x002AE783",
+      "0x002AE790"
+    ]
+  }
+]
+

@@ -1,0 +1,20 @@
+# User-owned game executable/assets and generated analysis/output
+game_files/**
+!game_files/.gitkeep
+generated/
+generated_mmio_probe/
+generated_boot/
+analysis_boot/
+build/
+logs/
+*_latest.log
+compile_remaining.log
+tests/__pycache__/
+switch_sd/
+snapshots/
+references/*-ghidra-*.txt
+*.nro
+*.nacp
+CMakeFiles/
+CMakeCache.txt
+

@@ -1,0 +1,54 @@
+# User-owned game inputs and generated guest code
+/external_versions/
+/porting/switch/game_files/
+/porting/switch/analysis_boot/
+/porting/switch/analysis_ghidra_xbe/
+/porting/switch/generated/
+/porting/switch/generated_*/
+/porting/switch/build/
+/porting/switch/build-*/
+/porting/switch/build_*/
+/porting/switch/switch_sd/
+/porting/switch/logs/
+/porting/switch/snapshots/
+
+# Game images, extracted resources, output binaries, and diagnostics
+*.iso
+*.xbe
+*.xex
+*.pak
+*.pck
+*.xmv
+*.nro
+*.nacp
+*.elf
+*.map
+*.o
+*.a
+*.so
+*.log
+*.dmp
+*.sav
+*.png
+*.jpg
+*.jpeg
+!/second-sight-header.jpg
+
+# Local analysis databases and generated interpreter/build state
+*.gpr
+*.rep/
+*.h5
+*.py[cod]
+__pycache__/
+.venv/
+.cache/
+CMakeFiles/
+CMakeCache.txt
+
+# Workstation-local configuration
+.env
+*.local
+*.user
+.DS_Store
+Thumbs.db
+

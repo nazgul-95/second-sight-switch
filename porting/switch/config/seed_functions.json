@@ -1,0 +1,23 @@
+[
+  {"start":"0x002AFCF7","reason":"Observed static initializer; mov [0x2CE33C],0x2CDC64; ret"},
+  {"start":"0x002AFD02","reason":"Observed static initializer; mov [0x2CE338],0x2CDC68; ret"},
+  {"start":"0x002B379C","reason":"Observed static initializer; mov [0x2CE3E4],0x2CDC6C; ret"},
+  {"start":"0x002B37A7","reason":"Observed static initializer; mov [0x2CE3E0],0x2CDC70; ret"},
+  {"start":"0x002B055E","reason":"Function pointer written by XDK HRTF initialization at 0x002B0889"},
+  {"start":"0x002B0598","reason":"Function pointer written by XDK HRTF initialization at 0x002B0889"},
+  {"start":"0x002AFFD6","reason":"Function pointer written by XDK HRTF initialization at 0x002B0889"},
+  {"start":"0x002B006C","reason":"Function pointer written by XDK HRTF initialization at 0x002B0889"},
+  {"start":"0x002B00B7","reason":"Function pointer written by XDK HRTF initialization at 0x002B0889"},
+  {"start":"0x002B01C8","reason":"Function pointer written by XDK HRTF initialization at 0x002B0889"},
+  {"start":"0x002B0680","reason":"Function pointer written by XDK HRTF initialization at 0x002B0889"},
+  {"start":"0x002B0737","reason":"Function pointer written by XDK HRTF initialization at 0x002B0889"},
+  {"start":"0x002B03C9","reason":"Function pointer written by XDK HRTF initialization at 0x002B0889"},
+  {"start":"0x002B07A0","reason":"Function pointer written by XDK HRTF initialization at 0x002B0889"},
+  {"start":"0x0015C620","reason":"Direct call target and independent Ghidra function entry, 81-byte body"},
+  {"start":"0x002AA79B","reason":"XbSymbolDatabase/Ghidra CDirectSoundStream_Use3DVoiceData, 80-byte body"},
+  {"start":"0x002AE3DF","reason":"XbSymbolDatabase/Ghidra XAudioCreateAdpcmFormat, 67-byte body"},
+  {"start":"0x002B721A","reason":"Direct call target and independent Ghidra function entry, 27-byte body"},
+  {"start":"0x002F6918","reason":"XbSymbolDatabase/Ghidra XInitDevices, 121-byte body; linear sweep missed entry after XPP data"},
+  {"start":"0x0013A9B0","reason":"Observed unresolved callback at 001E6100 in r12a; registered by PUSH at 0013D894; original 210-byte body ends at 0013AA82 and removes its own queue entry"}
+]
+
